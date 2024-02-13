@@ -1,0 +1,17 @@
+Assignment Design Sprint Day 1
+Emmanuel Balogun
+Marlon Mejias
+2024-02-12
+
+Scenarios:
+1. Mandi Farlie, Age 28: Mandi, a marketing professional in San Francisco, juggles her current job while actively seeking new opportunities to increase her compensation. With her busy schedule, it's challenging for her to keep track of all her job applications and interview schedules. Mandi starts using JobSync to organize her job search effectively. She can easily input details about each application, schedule interviews, and document her interview experiences all in one place, streamlining her job search process.
+
+2. Joel Johnson, Age 20: Joel, a computer science student at Stanford University, is searching for internship opportunities in the tech industry. With his coursework and coding projects taking up most of his time, Joel struggles to manage his job search efficiently. Discovering JobSync, Joel can now keep track of his internship applications, schedule interviews, and monitor application statuses with ease. The specialized features of JobSync cater to Joel's needs as a tech job seeker, allowing him to stay organized and focused on securing valuable internship experiences.
+
+User Stories:
+
+
+1. As a user, I want to be able to easily input details about each job application, schedule interviews, and document interview experiences within the app.
+2. As a job seeker, I want to receive notifications and reminders for upcoming interviews and application deadlines to ensure that I don't miss any opportunities.
+3. As a user, I want the app to have a user-friendly interface and intuitive features that streamline the job search process and save me time and effort.
+
